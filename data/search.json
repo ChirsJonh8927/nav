@@ -2,7 +2,7 @@
   {
     "name": "站内",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
-    "placeholder": "站内搜索",
+    "placeholder": "输入你要搜索的内容",
     "blocked": false,
     "isInner": true
   },
@@ -19,14 +19,16 @@
     "url": "https://www.google.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "谷歌一下"
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "必应一下"
   },
   {
     "name": "GitHub",
@@ -41,7 +43,8 @@
     "url": "https://www.zhihu.com/search?type=content&q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "输入你要搜索的内容"
   },
   {
     "name": "豆瓣",
