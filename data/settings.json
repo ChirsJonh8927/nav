@@ -1,22 +1,22 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806364278-web-logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "loading4",
   "showGithub": false,
   "title": "潮趣科技本 - 宝藏工具集",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "description": "精心收集了各类实用工具，一起开启科技的奇妙之旅，创造更加美好的未来！",
+  "keywords": "导航,宝藏工具,实用工具,开发编程,网络工具",
   "theme": "Side",
   "appTheme": "Side",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Powered By BennyTech</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806866112-background.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -27,7 +27,7 @@
   "simThemeAutoplay": false,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806852633-background.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -38,7 +38,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806969282-background02.jpg",
       "url": "",
       "width": null,
       "height": null
