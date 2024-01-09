@@ -16,18 +16,18 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806866112-background.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704810553364-background.jpg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeDesc": "本站已收录 <b>${total}</b> 个优质网站及宝藏工具 @Powered By BennyTech",
   "simThemeHeight": 380,
   "simThemeAutoplay": false,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806852633-background.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704810580479-background.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -38,7 +38,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806969282-background02.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704810572820-background02.jpg",
       "url": "",
       "width": null,
       "height": null
