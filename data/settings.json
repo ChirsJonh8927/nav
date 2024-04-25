@@ -2,13 +2,13 @@
   "favicon": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806364278-web-logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "loading4",
+  "loading": "loading3",
   "showGithub": false,
   "title": "潮趣科技本 - 宝藏工具集",
   "description": "精心收集了各类实用工具，一起开启科技的奇妙之旅，创造更加美好的未来！",
   "keywords": "导航,宝藏工具,实用工具,开发编程,网络工具",
   "theme": "Side",
-  "appTheme": "Shortcut",
+  "appTheme": "App",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Powered By BennyTech</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
@@ -16,7 +16,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704810553364-background.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1714048087663-bg01.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -27,7 +27,7 @@
   "simThemeAutoplay": false,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704810580479-background.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1714048098892-bg01.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -38,13 +38,13 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704810572820-background02.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1714048092862-bg01.jpg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "showLanguage": false,
+  "showLanguage": true,
   "showRate": false,
   "mirrorList": []
 }
