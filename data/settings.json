@@ -2,13 +2,13 @@
   "favicon": "https://cdn.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1704806364278-web-logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "loading3",
+  "loading": "loading4",
   "showGithub": false,
   "title": "潮趣科技本 - 宝藏工具集",
   "description": "精心收集了各类实用工具，一起开启科技的奇妙之旅，创造更加美好的未来！",
   "keywords": "导航,宝藏工具,实用工具,开发编程,网络工具",
   "theme": "Side",
-  "appTheme": "Shortcut",
+  "appTheme": "App",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Powered By BennyTech</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
@@ -44,7 +44,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
+  "showLanguage": false,
   "showRate": false,
   "mirrorList": []
 }
