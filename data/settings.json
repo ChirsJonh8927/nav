@@ -16,7 +16,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://testingcf.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1715014284571-bg01.jpg",
+      "src": "https://bennytech-1306581038.cos.ap-guangzhou.myqcloud.com/images/bg01.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -27,7 +27,7 @@
   "simThemeAutoplay": false,
   "sideThemeImages": [
     {
-      "src": "https://testingcf.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1715014284571-bg01.jpg",
+      "src": "https://bennytech-1306581038.cos.ap-guangzhou.myqcloud.com/images/bg01.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -38,7 +38,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://testingcf.jsdelivr.net/gh/ChirsJonh8927/nav@image/nav-1715014284571-bg01.jpg",
+      "src": "https://bennytech-1306581038.cos.ap-guangzhou.myqcloud.com/images/bg01.jpg",
       "url": "",
       "width": null,
       "height": null
